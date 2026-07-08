@@ -1,10 +1,10 @@
 ## Hi, I'm Nahom Kibreab
 
-I am a Computer Science graduate specializing in backend software engineering, systems design, and database integrity. My technical background spans low-level systems programming (such as raw TCP/IP socket architectures) to high-level enterprise application development using Java and the Spring ecosystem.
+I am a Computer Science graduate specializing in backend software engineering, systems design, and database integrity. My technical background spans low-level systems programming (such as raw TCP/IP socket architectures) to high-level application development using Java and Python.
 
 ### Core Technical Stack
-- **Languages:**  Java (17+), Python, SQL (MySQL, PostgreSQL)
-- **Frameworks & Tools:** Spring Boot, Spring Data JPA, Hibernate, JUnit, Mockito, Git, Docker
+- **Languages:**  Java, Python, SQL (MySQL)
+- **Frameworks & Tools:** Android Studio, Git, Docker
 - **CS Foundations:** Multi-threaded Concurrency, Database Schema Normalization, Network Programming (TCP/IP), RESTful API Design
 
 ### Connect with Me
